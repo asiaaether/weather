@@ -1,0 +1,17 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100vh;
+}
+
+body {
+  color: white;
+  padding: 30px;
+  text-align: center;
+  background-color: rgb(198, 255, 160);
+}

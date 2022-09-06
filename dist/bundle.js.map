@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":"yBAEaA,SAASC,cAAc,MAE/BC,YAAc,U","sources":["webpack://weather/./src/index.js"],"sourcesContent":["import \"../css/styles.css\"\n\nconst h1E1 = document.querySelector('h1');\n\nh1E1.textContent = \"Webpack!\";\n"],"names":["document","querySelector","textContent"],"sourceRoot":""}

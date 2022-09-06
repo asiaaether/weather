@@ -1,0 +1,16 @@
+*,
+:after,
+:before {
+  margin: 0;
+  padding: 0;
+}
+html {
+  height: 100vh;
+}
+body {
+  background-color: #c6ffa0;
+  color: #fff;
+  padding: 30px;
+  text-align: center;
+}
+/*# sourceMappingURL=main.css.map*/

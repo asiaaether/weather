@@ -11,5 +11,7 @@ module.exports = {
     sourceType: "module",
   },
   plugins: ["jest"],
-  rules: {},
+  rules: {
+    "no-unused-expressions": "off",
+  },
 };
