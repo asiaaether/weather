@@ -13,5 +13,8 @@ module.exports = {
   plugins: ["jest"],
   rules: {
     "no-unused-expressions": "off",
+    "no-param-reassign": 0,
+    "prefer-promise-reject-errors": "off",
+    "import/prefer-default-export": "off",
   },
 };
